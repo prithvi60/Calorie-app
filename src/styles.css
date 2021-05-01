@@ -1,0 +1,23 @@
+.App {
+  font-family: Times;
+  /* text-align: center; */
+  background-color: rgb(217, 240, 133);
+  color: rgb(142, 84, 8);
+  height: 100vh;
+  /* font-family: monospace; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.thumbnail {
+  border-radius: 70%;
+  height: 300px;
+  width: 300px;
+  align-self: center;
+  box-shadow: rgb(62, 158, 126) 2px 5px 5px;
+}
+
+body {
+  margin: 0px;
+}

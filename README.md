@@ -1,2 +1,2 @@
-# Calorie-app
+# Calorie-Lite
 Created with CodeSandbox
